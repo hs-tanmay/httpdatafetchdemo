@@ -1,0 +1,6 @@
+[
+    {"Name":"Ajay", "Company":"Google", "Designation":"Developer"},
+    {"Name":"Vijay", "Company":"Mircosoft", "Designation":"Manager"},
+    {"Name":"Ramesh", "Company":"Apple", "Designation":"Quality Analyst"},
+    {"Name":"Suresh", "Company":"Intel", "Designation":"Manager"}
+]
